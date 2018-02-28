@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519807210 source:c:\users\yesalam\documents\c_projects\prefix_sum_moreparellal_nk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+
